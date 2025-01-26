@@ -15,10 +15,10 @@ Hi there! I'm Harika, a passionate **Computer Science Engineer** specializing in
 - 💻 **Skills**:
   
 **Programming Languages:**
-   * Java
-   * C
-   * Python
-   * JavaScript
+     * Java
+     * C
+     * Python
+     * JavaScript
      
 **Frameworks/Libraries:**
    * Spring Boot
