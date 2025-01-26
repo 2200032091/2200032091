@@ -1,11 +1,10 @@
-
 <!-- README Template -->
 <div align="center">
-  <h1 style="color: #00aaff; font-size: 3rem; font-family: 'Prata', serif;"> 👩‍💻Harika Gorikapudi</h1>
+  <h1 style="color: #00aaff; font-size: 3rem; font-family: 'Prata', serif;"> 👩🏻‍💻Harika Gorikapudi</h1>
   <p style="font-size: 1.2rem; font-family: 'Poppins', sans-serif; color: #ffffff;">
     Coding my way through books, hot chocolate, and geeky dreams! ☕📚✨
   </p>
-   Check out my portfolio: [harikagorikapudi.dev](#) 🚀
+   Check out my portfolio: [harikagorikapudi.dev](https://2200032091.github.io/Harika-Gorikapudi/) 🚀
   <img src="https://i.pinimg.com/originals/94/fb/ba/94fbba130bb37d1f946e8d750a882b40.jpg" alt="Geeky Girl with Books and Hot Chocolate" width="300px" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.4);" />
 </div>
 
@@ -14,12 +13,14 @@
 ### 🌟 About Me
 Hi there! I'm Harika, a passionate **Computer Science Engineer** specializing in **Embedded Systems** and a curious learner of **all things tech and creative**. I enjoy building intuitive interfaces, solving complex problems, and sipping on hot chocolate while diving into a good book.
 
-- 💻 **Skills**: HTML, CSS, JavaScript, Java, C, Python
-                 MERN (MongoDB, Express.js, React, Node.js), Spring Boot, Django
-                 MongoDB, PostgreSQL, MySQL
-                 Docker, Git              
-- 📖 **Hobbies**: Reading books, crafting cozy tech vibes, exploring new tech trends
-- 🌌 **Currently Exploring**: AI/ML and real-time embedded systems
+- 💻 **Skills**:  
+  HTML, CSS, JavaScript, Java, C, Python  
+  MERN (MongoDB, Express.js, React, Node.js), Spring Boot, Django  
+  MongoDB, PostgreSQL, MySQL, Firebase, APIs  
+  Docker, Git, Kubernetes, Embedded Systems, Machine Learning  
+
+- 📖 **Hobbies**: Reading books, crafting cozy tech vibes, exploring new tech trends  
+- 🌌 **Currently Exploring**: AI/ML, Kubernetes, and real-time embedded systems
 
 ---
 
@@ -30,7 +31,7 @@ Here are a few of my favorite projects:
 |------------------------|-------------------------------------------------------------------------------|---------------------------|
 | **[Mentor Hive](https://github.com/2200032091/mentorhivedeployment)** | A visually appealing platform for seekers and providers with role-specific dashboards. | Java, JSP, Tailwind CSS   |
 | **[Smart Chat](https://github.com/2200032091/SmartChat)** | A chatbot application using GPT-3 to provide intelligent, human-like responses.               | MERN Stack               |
-| **[Autism Prediction Using Machine Learning](https://github.com/2200032091/Autism-Detection)** | Developed predictive models for Autism Spectrum Disorder (ASD) using decision trees and SVM algorithms.                  | Decision Treee, SVM        |
+| **[Autism Prediction Using Machine Learning](https://github.com/2200032091/Autism-Detection)** | Developed predictive models for Autism Spectrum Disorder (ASD) using decision trees and SVM algorithms.                  | Decision Tree, SVM        |
 
 ---
 
@@ -40,6 +41,11 @@ Here are a few of my favorite projects:
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Embedded_Systems-00599C?style=for-the-badge&logo=arduino&logoColor=white" />
 </div>
 
@@ -63,7 +69,6 @@ Let's connect and create something awesome together!
 <div align="center">
   <img src="https://media.giphy.com/media/WfMsmAfI8qBje/giphy.gif" alt="Cozy coding vibes" width="400px" />
   
-![Geeky Girl GIF](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
 </div>
 
 ---
@@ -71,4 +76,3 @@ Let's connect and create something awesome together!
 <footer align="center">
   Made with 💖 by Harika Gorikapudi | ✨ Stay geeky, stay cozy! ✨
 </footer>
-
