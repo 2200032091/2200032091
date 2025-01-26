@@ -13,39 +13,39 @@
 Hi there! I'm Harika, a passionate **Computer Science Engineer** specializing in **Embedded Systems** and a curious learner of **all things tech and creative**. I enjoy building intuitive interfaces, solving complex problems, and sipping on hot chocolate while diving into a good book.
 
 - 💻 **Skills**:  
-  *Programming Languages:*
+*Programming Languages:*
     * Java
     * C
     * Python
     * JavaScript  
-  *Frameworks/Libraries:*
+*Frameworks/Libraries:*
     * Spring Boot
     * Django
     * React
     * Node.js
     * MERN Stack (MongoDB, Express.js, React, Node.js)
-   *Databases:*
+  *Databases:*
     * MongoDB
     * PostgreSQL
     * MySQL
     * Firebase
-   *Cloud/DevOps:*
+  *Cloud/DevOps:*
     * Docker
     * Kubernetes
     * Git
-   *Other:*
+  *Other:*
     * Machine Learning
     * Embedded Systems
     * APIs
 
 - 📖 **Hobbies**:
-       Reading books
-       Exploring new tech trends
+       Reading books,
+       Exploring new tech trends,
        Crafting cozy tech vibes
 
 - 🌌 **Currently Exploring**:
-        Advanced AI/ML
-        Kubernetes
+        Advanced AI/ML,
+        Kubernetes,
         Real-time embedded systems
 
 
