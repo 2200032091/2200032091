@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Portfolio-View_Here-B0E0E6?style=for-the-badge&logo=google-chrome&logoColor=70B0B6" />
   </a>
   <br>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmxvaWR5OWc0YjJoaHA5NWVhajlnamRud3B0YXk1eGVvMHlzbW9hbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U3smyJhYEJiyrcw8CL/giphy.gif" alt="Geeky Vibes GIF" width="400px" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2k3OWMxOTdhMzVmeW5tYTV1dnpjbmI4YWNtZ2JlaDN6Zm4xengzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MTPfOYKSNA4D64UBc0/giphy.gif" alt="Geeky Vibes GIF" width="400px" />
 
    
 </div>
