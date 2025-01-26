@@ -14,35 +14,26 @@ Hi there! I'm Harika, a passionate **Computer Science Engineer** specializing in
 
 - 💻 **Skills**:  
 **Programming Languages:**
-
-* Java
-* C
-* Python
-* JavaScript
-
+   * Java
+   * C
+   * Python
+   * JavaScript
 **Frameworks/Libraries:**
-
-* Spring Boot
-* Django
-* React
-* Node.js
-* MERN Stack (MongoDB, Express.js, React, Node.js)
-
+   * Spring Boot
+   * Django
+   * React
+   * Node.js
+   * MERN Stack (MongoDB, Express.js, React, Node.js)
 **Databases:**
-
-* MongoDB
-* PostgreSQL
-* MySQL
-* Firebase
-
+   * MongoDB
+   * PostgreSQL
+   * MySQL
+   * Firebase
 **Cloud/DevOps:**
-
-* Docker
-* Kubernetes
-* Git
-
+   * Docker
+   * Kubernetes
+   * Git
 **Other:**
-
 * Machine Learning
 * Embedded Systems
 * APIs
