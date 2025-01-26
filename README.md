@@ -15,7 +15,7 @@ Hi there! I'm Harika, a passionate **Computer Science Engineer** specializing in
 
 - 💻 **Tech Stack**: Java, Tailwind, React, Node.js, Embedded Systems
 - 📖 **Hobbies**: Reading books, crafting cozy tech vibes, exploring new tech trends
-- 🌌 **Currently Exploring**: Advanced UI/UX designs and real-time embedded systems
+- 🌌 **Currently Exploring**: AI/ML and real-time embedded systems
 
 ---
 
@@ -24,9 +24,9 @@ Here are a few of my favorite projects:
 
 | **Project Name**      | **Description**                                                                 | **Tech Stack**            |
 |------------------------|-------------------------------------------------------------------------------|---------------------------|
-| **[Job Portal App](#)** | A visually appealing platform for seekers and providers with role-specific dashboards. | Java, JSP, Tailwind CSS   |
-| **[Social Media Dashboard](#)** | A dynamic dashboard for monitoring and analyzing social media activity.               | MERN Stack               |
-| **[Stock Management System](#)** | A system to manage inventory, track payments, and generate reports.                  | Node.js, MongoDB         |
+| **[Mentor Hive](https://github.com/2200032091/mentorhivedeployment)** | A visually appealing platform for seekers and providers with role-specific dashboards. | Java, JSP, Tailwind CSS   |
+| **[Smart Chat](https://github.com/2200032091/SmartChat)** | A chatbot application using GPT-3 to provide intelligent, human-like responses.               | MERN Stack               |
+| **[Autism Prediction Using Machine Learning](https://github.com/2200032091/Autism-Detection)** | Developed predictive models for Autism Spectrum Disorder (ASD) using decision trees and SVM algorithms.                  | Decision Treee, SVM        |
 
 ---
 
@@ -45,14 +45,11 @@ Here are a few of my favorite projects:
 Let's connect and create something awesome together!
 
 <div align="center">
-  <a href="https://github.com/HarikaGorikapudi" target="_blank">
+  <a href="https://github.com/2200032091/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/HarikaGorikapudi" target="_blank">
+  <a href="https://www.linkedin.com/in/harika-gorikapudi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/HarikaReads" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
