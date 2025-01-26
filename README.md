@@ -66,7 +66,7 @@ Let's connect and create something awesome together!
 
 ### ❄️ See you again
 <div align="center">
-  <img src="https://gifdb.com/gif/have-a-nice-day-snoopy-shades-heart-pvvqfeho64bcwkfc.html?embed=true" alt="Cozy coding vibes" width="400px" />
+  <img src="https://pin.it/5xVfBonII" alt="Cozy coding vibes" width="400px" />
   
 </div>
 
