@@ -16,7 +16,8 @@
 ---
 
 ### 🌟 About Me
-Hi there! I'm Harika, a passionate **Computer Science Engineer** specializing in **Embedded Systems** and a curious learner of **all things tech and creative**. I enjoy building intuitive interfaces, solving complex problems, and sipping on hot chocolate while diving into a good book.
+Hi there! I'm Harika, 3rd year **Computer Science Engineer** specializing in **Embedded Systems** and a curious learner of **all things tech and creative**. 
+I enjoy building intuitive interfaces, solving dsa problems, and sipping on hot chocolate while diving into a good book.
 
 - 💻 **Skills**:
   - **Programming Languages**: Java, C, Python, JavaScript
@@ -44,7 +45,7 @@ Here are a few of my favorite projects:
 
 | **Project Name**      | **Description**                                                                 | **Tech Stack**            |
 |------------------------|-------------------------------------------------------------------------------|---------------------------|
-| **[Mentor Hive](https://github.com/2200032091/mentorhivedeployment)** | A visually appealing platform for seekers and providers with role-specific dashboards. | Java, JSP, Tailwind CSS   |
+| **[Mentor Hive](https://github.com/2200032091/mentorhivedeployment)** | A visually appealing platform for seekers and providers with role-specific dashboards. | Java, Springboot, Tailwind CSS   |
 | **[Smart Chat](https://github.com/2200032091/SmartChat)** | A chatbot application using GPT-3 to provide intelligent, human-like responses.               | MERN Stack               |
 | **[Autism Prediction Using Machine Learning](https://github.com/2200032091/Autism-Detection)** | Developed predictive models for Autism Spectrum Disorder (ASD) using decision trees and SVM algorithms.                  | Decision Tree, SVM        |
 
