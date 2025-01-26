@@ -1,9 +1,15 @@
 <!-- README Template -->
 <div align= "center">
-  <h1  style="color: #00aaff; font-size: 3rem; font-family: 'Prata', serif;"> 👩🏻‍💻<a href="https://2200032091.github.io/Harika-Gorikapudi/">Harika Gorikapudi</h1>
-    <p style="font-size: 1.2rem; font-family: 'Poppins', sans-serif; color: #ffffff;">
+  <h1 style="color: #00aaff; font-size: 3rem; font-family: 'Prata', serif;"> 👩🏻‍💻 Harika Gorikapudi</h1>
+  <p style="font-size: 1.2rem; font-family: 'Poppins', sans-serif; color: #ffffff;">
     Coding my way through books, hot chocolate, and geeky dreams! ☕📚✨
   </p>
+  <a href="https://2200032091.github.io/Harika-Gorikapudi/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View_Here-%23f0f0f0?style=for-the-badge&logo=google-chrome&logoColor=%2300aaff" />
+  </a>
+  <br>
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Geeky Vibes GIF" width="400px" />
+
    
 </div>
 
