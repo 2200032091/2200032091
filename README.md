@@ -1,6 +1,6 @@
 <!-- README Template -->
-<div >
-  <h1 align= "center" style="color: #00aaff; font-size: 3rem; font-family: 'Prata', serif;"> 👩🏻‍💻<a href="https://2200032091.github.io/Harika-Gorikapudi/">Harika Gorikapudi</h1>
+<div align= "center">
+  <h1  style="color: #00aaff; font-size: 3rem; font-family: 'Prata', serif;"> 👩🏻‍💻<a href="https://2200032091.github.io/Harika-Gorikapudi/">Harika Gorikapudi</h1>
     <p style="font-size: 1.2rem; font-family: 'Poppins', sans-serif; color: #ffffff;">
     Coding my way through books, hot chocolate, and geeky dreams! ☕📚✨
   </p>
@@ -98,6 +98,6 @@ Let's connect and create something awesome together!
 ---
 
 
-<footer align="center">
+<div align="center">
   Made with 💖 by Harika Gorikapudi <br> ✨ Stay geeky, stay cozy! ✨
-</footer>
+</div>
