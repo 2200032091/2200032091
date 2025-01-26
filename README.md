@@ -1,10 +1,10 @@
 <!-- README Template -->
 <div align="center">
-  <h1 style="color: #00aaff; font-size: 3rem; font-family: 'Prata', serif;"> 👩🏻‍💻Harika Gorikapudi</h1>
+  <h1 style="color: #00aaff; font-size: 3rem; font-family: 'Prata', serif;"> 👩🏻‍💻**[Harika Gorikapudi](https://2200032091.github.io/Harika-Gorikapudi/)**</h1>
   <p style="font-size: 1.2rem; font-family: 'Poppins', sans-serif; color: #ffffff;">
     Coding my way through books, hot chocolate, and geeky dreams! ☕📚✨
   </p>
-   Check out my portfolio: [harikagorikapudi.dev](https://2200032091.github.io/Harika-Gorikapudi/) 🚀
+   
   <img src="https://i.pinimg.com/originals/94/fb/ba/94fbba130bb37d1f946e8d750a882b40.jpg" alt="Geeky Girl with Books and Hot Chocolate" width="300px" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.4);" />
 </div>
 
@@ -44,7 +44,6 @@ Here are a few of my favorite projects:
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Embedded_Systems-00599C?style=for-the-badge&logo=arduino&logoColor=white" />
 </div>
