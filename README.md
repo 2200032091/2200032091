@@ -1,6 +1,6 @@
 <!-- README Template -->
 <div >
-  <h1 style="color: #00aaff; font-size: 3rem; font-family: 'Prata', serif;"> 👩🏻‍💻<a href="https://2200032091.github.io/Harika-Gorikapudi/">Harika Gorikapudi</h1>
+  <h1 align= "center" style="color: #00aaff; font-size: 3rem; font-family: 'Prata', serif;"> 👩🏻‍💻<a href="https://2200032091.github.io/Harika-Gorikapudi/">Harika Gorikapudi</h1>
   <img align= "right" src="https://media1.tenor.com/m/EgBho6VyZQ4AAAAC/hi.gif" alt="Geeky Girl with Books and Hot Chocolate" width="300px" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.4);" />
     <p style="font-size: 1.2rem; font-family: 'Poppins', sans-serif; color: #ffffff;">
     Coding my way through books, hot chocolate, and geeky dreams! ☕📚✨
