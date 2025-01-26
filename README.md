@@ -5,7 +5,7 @@
     Coding my way through books, hot chocolate, and geeky dreams! ☕📚✨
   </p>
    
-  <img src="https://i.pinimg.com/originals/94/fb/ba/94fbba130bb37d1f946e8d750a882b40.jpg" alt="Geeky Girl with Books and Hot Chocolate" width="300px" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.4);" />
+  <img src="https://images.app.goo.gl/cyjFUWNfpnxvPMPk8" alt="Geeky Girl with Books and Hot Chocolate" width="300px" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.4);" />
 </div>
 
 ---
