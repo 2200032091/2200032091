@@ -64,10 +64,10 @@ Let's connect and create something awesome together!
 
 ---
 
-### ❄️ Cozy Vibes GIF
+### ❄️ See you again
 <div align="center">
   <img src="https://tenor.com/I6pt.gif" alt="Cozy coding vibes" width="400px" />
-  
+  <div class="tenor-gif-embed" data-postid="8327053" data-share-method="host" data-aspect-ratio="1.23333" data-width="100%"><a href="https://tenor.com/view/snoopy-have-a-nice-day-good-vibes-gif-8327053">Snoopy Have A Nice Day GIF</a>from <a href="https://tenor.com/search/snoopy-gifs">Snoopy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 ---
