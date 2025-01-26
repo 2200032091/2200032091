@@ -1,7 +1,6 @@
 <!-- README Template -->
 <div >
   <h1 align= "center" style="color: #00aaff; font-size: 3rem; font-family: 'Prata', serif;"> 👩🏻‍💻<a href="https://2200032091.github.io/Harika-Gorikapudi/">Harika Gorikapudi</h1>
-  <img align= "right" src="https://media1.tenor.com/m/EgBho6VyZQ4AAAAC/hi.gif" alt="Geeky Girl with Books and Hot Chocolate" width="300px" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.4);" />
     <p style="font-size: 1.2rem; font-family: 'Poppins', sans-serif; color: #ffffff;">
     Coding my way through books, hot chocolate, and geeky dreams! ☕📚✨
   </p>
@@ -15,12 +14,45 @@ Hi there! I'm Harika, a passionate **Computer Science Engineer** specializing in
 
 - 💻 **Skills**:  
   HTML, CSS, JavaScript, Java, C, Python  
-  MERN (MongoDB, Express.js, React, Node.js), Spring Boot, Django  
+  MERN , Spring Boot, Django  
   MongoDB, PostgreSQL, MySQL, Firebase, APIs  
-  Docker, Git, Kubernetes, Embedded Systems, Machine Learning  
+  Docker, Git, Kubernetes, Embedded Systems, Machine Learning
+* **Programming Languages:** 
+    * Java
+    * C
+    * Python
+    * JavaScript 
+* **Frameworks/Libraries:**
+    * Spring Boot
+    * Django
+    * React
+    * Node.js
+    * MERN Stack (MongoDB, Express.js, React, Node.js)
+* **Databases:**
+    * MongoDB
+    * PostgreSQL
+    * MySQL
+    * Firebase
+* **Cloud/DevOps:**
+    * Docker
+    * Kubernetes
+    * Git
+* **Other:**
+    * Machine Learning
+    * Embedded Systems
+    * APIs
 
-- 📖 **Hobbies**: Reading books, crafting cozy tech vibes, exploring new tech trends  
-- 🌌 **Currently Exploring**: AI/ML, Kubernetes, and real-time embedded systems
+- 📖 **Hobbies**:
+* Reading books
+* Exploring new tech trends
+* Crafting cozy tech vibes
+
+- 🌌 **Currently Exploring**:
+* AI/ML
+* Kubernetes
+* Real-time embedded systems
+
+
 
 ---
 
@@ -64,14 +96,7 @@ Let's connect and create something awesome together!
 
 ---
 
-### ❄️ See you again
-<div align="center">
-  <img src="https://pin.it/5xVfBonII" alt="Cozy coding vibes" width="400px" />
-  
-</div>
-
----
 
 <footer align="center">
-  Made with 💖 by Harika Gorikapudi | ✨ Stay geeky, stay cozy! ✨
+  Made with 💖 by Harika Gorikapudi <br> ✨ Stay geeky, stay cozy! ✨
 </footer>
