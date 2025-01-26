@@ -79,7 +79,6 @@ Let's connect and create something awesome together!
 
 ---
 
-<hr style="border: 1px solid #00aaff;" />
 <div align="center">
   Made with 💖 by Harika Gorikapudi <br> ✨ Stay geeky, stay cozy! ✨
 </div>
