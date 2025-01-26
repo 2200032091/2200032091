@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Harika Gorikapudi!  
+🌟 **A passionate Computer Science Engineer in the making.**  
+💻 Building scalable applications and exploring cutting-edge tech!  
+🎓 Currently pursuing B.Tech at **K L University**.  
 
-<!--
-**2200032091/2200032091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔭 **Current Focus**
+- Exploring **AI/ML** and **Embedded Systems**.
+- Working on academic projects and internships.
+  
+### 💡 **Skills**
+- **Languages:** Java, Python, C++
+- **Web Tech:** HTML, CSS, JavaScript
+- **Tools:** Git, Docker, MySQL, JIRA  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 **GitHub Stats**
+![Harika's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+---
+
+### 🌟 **Fun Facts**
+- 🚀 Dream job: Building tech for space missions!
+- 🧩 Love solving puzzles in my free time.
+
+### 📫 **Reach Me**
+- 💌 Email: [harika@example.com](mailto:harika@example.com)
+- 🌐 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/YourLinkedInUsername)
+
+
