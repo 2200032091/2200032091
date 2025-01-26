@@ -5,7 +5,7 @@
     Coding my way through books, hot chocolate, and geeky dreams! ☕📚✨
   </p>
   <a href="https://2200032091.github.io/Harika-Gorikapudi/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View_Here-%23f0f0f0?style=for-the-badge&logo=google-chrome&logoColor=%2300aaff" />
+    <img src="https://img.shields.io/badge/Portfolio-View_Here-%2496ED?style=for-the-badge&logo=google-chrome&logoColor=%2300aaff" />
   </a>
   <br>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2k3OWMxOTdhMzVmeW5tYTV1dnpjbmI4YWNtZ2JlaDN6Zm4xengzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MTPfOYKSNA4D64UBc0/giphy.gif" alt="Geeky Vibes GIF" width="400px" />
