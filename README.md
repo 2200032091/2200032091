@@ -1,4 +1,4 @@
-<!-- README Template -->
+
 <div align= "center">
   <h1 style="color: #00aaff; font-size: 3rem; font-family: 'Prata', serif;"> 👩🏻‍💻 Harika Gorikapudi</h1>
   <p style="font-size: 1.2rem; font-family: 'Poppins', sans-serif; color: #ffffff;">
@@ -46,7 +46,7 @@ Here are a few of my favorite projects:
 | **Project Name**      | **Description**                                                                 | **Tech Stack**            |
 |------------------------|-------------------------------------------------------------------------------|---------------------------|
 | **[Mentor Hive](https://github.com/2200032091/mentorhivedeployment)** | A visually appealing platform for seekers and providers with role-specific dashboards. | Java, Springboot, Tailwind CSS   |
-| **[Smart Chat](https://github.com/2200032091/SmartChat)** | A chatbot application using GPT-3 to provide intelligent, human-like responses.               | MERN Stack               |
+| **[AI-based-Home-Security-System](https://github.com/2200032091/AI-based-Home-Security-System)** | Smart surveillance system with real-time facial recognition, object detection, and SMS alerts for unknown intrusions.               | Python, OpenCV, Firebase, Twilio              |
 | **[Autism Prediction Using Machine Learning](https://github.com/2200032091/Autism-Detection)** | Developed predictive models for Autism Spectrum Disorder (ASD) using decision trees and SVM algorithms.                  | Decision Tree, SVM        |
 
 ---
